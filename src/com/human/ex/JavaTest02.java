@@ -11,7 +11,7 @@ public class JavaTest02 {			//키워드
 		System.out.println("* 최 명국   01000000000     *");
 		System.out.println("* audrnr3577@gmail.com    *");
 		System.out.println("***************************");
-		System.out.println("");
+		System.out.println(""); //TEST
 		System.out.println("*****"); //문제 5-1
 		System.out.println("*****");
 		System.out.println("*****");
